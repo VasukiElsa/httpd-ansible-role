@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: rgb(3, 80, 3);  
+    color:white;   
+    font-weight: 600px;
+}
+h1{
+    color:goldenrod;
+    font-size: 50px;
+}
+
+#message-el{
+    font-size: 35px;
+    font-style: italic;
+}
+
+p{
+    font-size: 30px;
+}
+
+button{
+    padding:15px;
+    width:300px;
+    font-size: 40px;
+    background-color: rgb(238, 177, 22);
+    color:rgb(3, 80, 3);
+    font-weight: bold;
+    border-radius: 12px;
+    margin-top:6px;
+    margin-bottom:6px;
+
+
+}
